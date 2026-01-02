@@ -28,7 +28,11 @@
 // let x = 1 + (a *= 2);
 // console.log(x);
 
-let a = +prompt("First Number?", 1);
-let b = +prompt("Second Number?", 2);
+// let a = +prompt("First Number?", 1);
+// let b = +prompt("Second Number?", 2);
 
-alert(a + b);
+// alert(a + b);
+// Day 03
+// Comparison between Null and Undefined
+
+
