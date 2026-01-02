@@ -41,9 +41,20 @@
 
 // Conditional Branching
 
-let name = prompt("what is your name");
+// let name = prompt("what is your name");
 
-if (name == Adedeji) {
-    alert("welcome Back Boy"); } else {
-        alert("who are you?")
-    }
+// if (name == Adedeji) {
+//     alert("welcome Back Boy"); } else {
+//         alert("who are you?")
+//     }
+
+// let accessAllowed;
+
+// let age = prompt("How Old are you");
+// if (age > 18) {
+//     accessAllowed = true;
+// } else {
+//     accessAllowed = false
+// }
+
+// logicaL OPerator
