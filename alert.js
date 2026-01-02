@@ -35,4 +35,15 @@
 // Day 03
 // Comparison between Null and Undefined
 
+// alert (2 < 1);
 
+// alert ("A" < "B");
+
+// Conditional Branching
+
+let name = prompt("what is your name");
+
+if (name == Adedeji) {
+    alert("welcome Back Boy"); } else {
+        alert("who are you?")
+    }
