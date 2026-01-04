@@ -16,3 +16,17 @@
 // }
 
 // welcome to loops "the begining of JavaScript"
+
+//the while loop
+// let i = 0;
+// while (i < 3) {
+//     alert( i );
+//     i++;
+// }
+
+//The do while loop
+let i = 0
+do {
+    alert( i );
+    i++;
+} while(i < 3);
